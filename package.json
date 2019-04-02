@@ -44,7 +44,7 @@
   },
   "homepage": "https://rmartide.github.io/react-reacstrap-pagination/",
   "license": "MIT",
-  "main": "dist/PaginationComponent.js",
+  "main": "src/PaginationComponent.js",
   "keywords": [
     "react",
     "reactstrap",
